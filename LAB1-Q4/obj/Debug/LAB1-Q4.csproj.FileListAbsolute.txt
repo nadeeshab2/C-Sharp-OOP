@@ -1,0 +1,7 @@
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\bin\Debug\LAB1-Q4.exe.config
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\bin\Debug\LAB1-Q4.exe
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\bin\Debug\LAB1-Q4.pdb
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\obj\Debug\LAB1-Q4.csproj.AssemblyReference.cache
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\obj\Debug\LAB1-Q4.csproj.CoreCompileInputs.cache
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\obj\Debug\LAB1-Q4.exe
+D:\UNI\c#\LAB1-Q1\LAB1-Q4\obj\Debug\LAB1-Q4.pdb
